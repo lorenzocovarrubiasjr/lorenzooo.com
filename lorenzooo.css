@@ -1,0 +1,49 @@
+.nav-comp-name {
+    max-width:4%;
+    max-height:4%;
+    object-fit: contain;
+    font-family: 'Rock Salt', cursive;
+}
+
+.lorenzooo-nav {
+    background-image: linear-gradient(to right,rgb(63, 49, 138), rgba(212,217,245));
+}
+
+.my-name-mention {
+    font-family: 'Rock Salt', cursive;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+.bio div h6 {
+    color: black;
+}
+
+.lorenzo-jumbo {
+}
+
+.portfolio {
+    background-image: url("bk-ground-eternal-org.jpg")
+}
+
+img.port-image { 
+    float : right; 
+}
+
+.bio { 
+    background-image: linear-gradient(to right,rgba(101,135,157),rgba(197,144,140));
+}
+
+.work-history {
+    background-color: #91CEC8;
+}
+
+.bk-img {
+    background-image: url("witeoutkari.jpg");
+        filter: blur(3px);
+        -webkit-filter: blur(3px);
+
+}
+
